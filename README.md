@@ -12,11 +12,10 @@ Eu narro rpg e estou criando uma nova cidade para o jogo. Usei o chat para criar
 
 ## 🚀 Resultados
 
-
-
+Segue no repositório na pasta /Resultados.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi muito interessante pois o chat busca na sua base de informações dados que nós não temos conhecimento, aprofundando e enriquecendo a criação.
 
 
 
